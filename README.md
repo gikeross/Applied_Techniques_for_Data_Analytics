@@ -27,7 +27,7 @@ Discover a GitHub repository packed with MySQL language techniques for effortles
    - Dataset with data for second analysis - main focus housing situation in Nashville.
    
 7. **`wrangling_cleaning_technique_SQL.sql`**
-   - This sql file we explore technique to alter the table, treat #n/a values and store instant procedure
+   - This SQL file we explore technique to alter the table, treat #n/a values and store instant procedure
   
 ## CONCLUSION
 
