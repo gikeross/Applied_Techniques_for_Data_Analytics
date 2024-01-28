@@ -14,19 +14,19 @@ Discover a GitHub repository packed with MySQL language techniques for effortles
 1. **`CovidDeath.xlsx`**
    - Dataset splitted from the original download to faciliate the analysis regarding death.
 
-2. **'CovidVaccination.xlsx`**
+2. **`CovidVaccination.xlsx`**
    - Dataset splitted from the original download to faciliate the analysis regarding vaccination.
 
-3. **'SQL_import_PY.ipynb'**
+3. **`SQL_import_PY.ipynb`**
    - In this file we explore possible solution to import & export from python to SQL and viceversa.
 
-4. **'Covid_Data_Exploration'**
+4. **`Covid_Data_Exploration`**
    - Analysis using technique and applying view in order to tailor data for visualization
 
-5. **'Nashville Housing Data for Data Cleaning.xlsx'**
+5. **`Nashville Housing Data for Data Cleaning.xlsx`**
    - Dataset with data for second analysis - main focus housing situation in Nashville.
    
-7. **'wrangling_cleaning_technique_SQL.sql'**
+7. **`wrangling_cleaning_technique_SQL.sql`**
    - This sql file we explore technique to alter the table, treat #n/a values and store instant procedure
   
 ## CONCLUSION
